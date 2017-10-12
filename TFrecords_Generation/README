@@ -1,0 +1,3 @@
+使用：
+./transform.sh
+#改变index_range即可改变图像文件夹的索引
